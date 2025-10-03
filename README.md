@@ -26,4 +26,4 @@
 ---
 
 ## Technologies & Tools
-[![My Skills](https://skillicons.dev/icons?i=linux,vscode,git,github,django,postgres,gcp&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,vscode,git,github,django,postgres,gcp&perline=6)](https://skillicons.dev)
