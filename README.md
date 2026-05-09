@@ -7,7 +7,7 @@
 
 **Developer and Researcher in Artificial Intelligence**.  
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjB5aDg4a2NmM3R6eHgzNmFwMzRveGszdzVwZTY3ZDkxaXpnY3ZjdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/I3cB63YBh1mCJNu6WF/giphy.gif" width="50px" align="right" style="margin-top:-180px;" />
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjB5aDg4a2NmM3R6eHgzNmFwMzRveGszdzVwZTY3ZDkxaXpnY3ZjdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/I3cB63YBh1mCJNu6WF/giphy.gif" width="10px" align="right" style="margin-top:-180px;" />
 </div>
 
 
